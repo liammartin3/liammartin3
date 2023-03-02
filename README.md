@@ -1,4 +1,3 @@
-### Hi there 👋
+### Hello! 👋
 
-
-- 🌱 I’m currently learning about open source GIS solutions.
+-  I am interested in building open source web maps using Leaflet 🌱 and Mapbox 🗺️.
