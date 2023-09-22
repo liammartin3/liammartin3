@@ -1,5 +1,5 @@
 ### Hello! 👋
 
--  I am interested in metadata:page_facing_up:
+-  I am interested in metadata 📄
 - and building open source web maps using Leaflet 🌱 and Mapbox 🗺️.
 
